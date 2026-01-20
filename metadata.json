@@ -1,0 +1,5 @@
+{
+  "name": "Weekly Report AI Assistant",
+  "description": "An AI-powered tool to organize daily work logs into professional weekly reports using Google Gemini.",
+  "requestFramePermissions": []
+}
